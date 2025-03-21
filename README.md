@@ -35,8 +35,8 @@ Focus: Monthly profit trends, product profitability, and expenditure.
   - Coffee, Tea, and Bakery items generate the highest profit.
   - Coffee and tea contribute the most, aligning with revenue trends.
 - Profit vs. Expenditure Analysis:
-  - Expenditure is highest for premium coffee categories**, but **profitability remains strong**.
-  - Gourmet brewed coffee and barista espresso** show high expenditure and high profit, indicating strong consumer demand.
+  - Expenditure is highest for premium coffee categories, but profitability remains strong.
+  - Gourmet brewed coffee and barista espresso show high expenditure and high profit, indicating strong consumer demand.
 
 Key Takeaway: Premium coffee products drive profitability, and profits are increasing over time.
 
